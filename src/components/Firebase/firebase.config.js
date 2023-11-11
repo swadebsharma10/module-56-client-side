@@ -1,17 +1,18 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
+// Import the functions you need from the SDKs you need
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDildIU5Xvy_UNBf60fgrlbrvr7rDKpV-A",
-  authDomain: "coffee-store-f8e32.firebaseapp.com",
-  projectId: "coffee-store-f8e32",
-  storageBucket: "coffee-store-f8e32.appspot.com",
-  messagingSenderId: "321653030450",
-  appId: "1:321653030450:web:55ad1fb3c8376bf813062b"
+  apiKey: "AIzaSyDfhE79LE5Bzrlk5tujtdMdGzqI0YmDeoI",
+  authDomain: "module-56-coffee-client.firebaseapp.com",
+  projectId: "module-56-coffee-client",
+  storageBucket: "module-56-coffee-client.appspot.com",
+  messagingSenderId: "557769825263",
+  appId: "1:557769825263:web:e5dd507aad8a994967341a"
 };
 
 // Initialize Firebase
